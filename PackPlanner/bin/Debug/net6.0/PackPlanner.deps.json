@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PackPlanner/1.0.0": {
+        "dependencies": {
+          "PackPlannerDomain": "1.0.0"
+        },
+        "runtime": {
+          "PackPlanner.dll": {}
+        }
+      },
+      "PackPlannerDomain/1.0.0": {
+        "runtime": {
+          "PackPlannerDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PackPlanner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PackPlannerDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

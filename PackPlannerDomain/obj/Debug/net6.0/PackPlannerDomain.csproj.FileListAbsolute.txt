@@ -1,0 +1,12 @@
+C:\GitRepos\PackPlanner\PackPlannerDomain\bin\Debug\net6.0\PackPlannerDomain.deps.json
+C:\GitRepos\PackPlanner\PackPlannerDomain\bin\Debug\net6.0\PackPlannerDomain.dll
+C:\GitRepos\PackPlanner\PackPlannerDomain\bin\Debug\net6.0\PackPlannerDomain.pdb
+C:\GitRepos\PackPlanner\PackPlannerDomain\obj\Debug\net6.0\PackPlannerDomain.csproj.AssemblyReference.cache
+C:\GitRepos\PackPlanner\PackPlannerDomain\obj\Debug\net6.0\PackPlannerDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitRepos\PackPlanner\PackPlannerDomain\obj\Debug\net6.0\PackPlannerDomain.AssemblyInfoInputs.cache
+C:\GitRepos\PackPlanner\PackPlannerDomain\obj\Debug\net6.0\PackPlannerDomain.AssemblyInfo.cs
+C:\GitRepos\PackPlanner\PackPlannerDomain\obj\Debug\net6.0\PackPlannerDomain.csproj.CoreCompileInputs.cache
+C:\GitRepos\PackPlanner\PackPlannerDomain\obj\Debug\net6.0\PackPlannerDomain.dll
+C:\GitRepos\PackPlanner\PackPlannerDomain\obj\Debug\net6.0\refint\PackPlannerDomain.dll
+C:\GitRepos\PackPlanner\PackPlannerDomain\obj\Debug\net6.0\PackPlannerDomain.pdb
+C:\GitRepos\PackPlanner\PackPlannerDomain\obj\Debug\net6.0\ref\PackPlannerDomain.dll
